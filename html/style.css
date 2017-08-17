@@ -1,0 +1,49 @@
+#title {
+  border-bottom: 1px solid #e2e2e2;
+  margin-bottom: 10px;
+}
+
+#authoretsocialmedia {
+margin-bottom: 10px;
+}
+
+#author {
+  float: left;
+  background-color: blue;
+}
+
+#socialmedia {
+  float: right;
+}
+
+.sharebuttons {
+  display: flex;
+  background-color: grey;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+  margin-right: 15px;
+}
+
+.imageprincipal img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.descriptionimgprincipaltext {
+  font-size: 0.875rem;
+}
+
+#bigarticle {
+  background-image: url("https://static01.nyt.com/newsgraphics/2014/03/18/theory-of-inflation/1ebaa1b972edda0f407fbaa0e010f6b50fb6792e/inflation-720.png");
+  background-size: 735px 633px;
+  background-repeat: no-repeat;
+}
+.videoarticle {
+  width: 100%;
+}
